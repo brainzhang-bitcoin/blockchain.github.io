@@ -1,95 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>opendbank.com</title>
-  <meta name="author" content="opendbank">
-
-  
-  <meta name="description" content="注 这是比较早期的文章，文章的作者老端属于国内最早的玩家之一，现在也是英雄总被雨打风吹去了。老端也早就由粉转黑，不过现在看看，不失为介绍比特币的一篇妙文。 转载自: http://www.8btc.com/crazy-bitcoin-user 正文 看完这篇文章，我相信你一定会说，我靠， &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://opendbank.com/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="opendbank.com" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.useso.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.useso.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.useso.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">opendbank.com</a></h1>
-  
-    <h2>btc blockchain</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="opendbank.com">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">主页</a></li>
-  <li><a href="/blog/archives">存档</a></li>
-  <li><a href="/about">关于</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Category: Funny | opendbank.com]]></title>
+  <link href="http://opendbank.com/blog/categories/funny/atom.xml" rel="self"/>
+  <link href="http://opendbank.com/"/>
+  <updated>2016-06-07T21:55:59+08:00</updated>
+  <id>http://opendbank.com/</id>
+  <author>
+    <name><![CDATA[opendbank]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2016/06/07/zui-feng-kuang-de-bi-te-bi-yong-hu/">最疯狂的比特币用户</a></h1>
-    
-    
-      <p class="meta">
-        
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-
-
-
-<time class='entry-date' datetime='2016-06-07T21:42:36+08:00'><span class='date'><span class='date-month'>Jun</span> <span class='date-day'>7</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>9:42 pm</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>注</h2>
+  
+  <entry>
+    <title type="html"><![CDATA[最疯狂的比特币用户]]></title>
+    <link href="http://opendbank.com/blog/2016/06/07/zui-feng-kuang-de-bi-te-bi-yong-hu/"/>
+    <updated>2016-06-07T21:42:36+08:00</updated>
+    <id>http://opendbank.com/blog/2016/06/07/zui-feng-kuang-de-bi-te-bi-yong-hu</id>
+    <content type="html"><![CDATA[<h2>注</h2>
 
 <p>这是比较早期的文章，文章的作者老端属于国内最早的玩家之一，现在也是英雄总被雨打风吹去了。老端也早就由粉转黑，不过现在看看，不失为介绍比特币的一篇妙文。</p>
 
@@ -139,80 +68,7 @@
 <p>特别是当海盗湾被政府封锁之后，海盗党党员人数一下跃升到4.2万人，而瑞典总共才900万人口，现在海盗党已经是瑞典第三大党派，此后当欧洲议会选举的时候，竟然有21.4万人给海盗党投票，这让海盗党顺利拿到了一个议会席位。</p>
 
 <p>以上这个故事是不是很神奇？玩bt下载的人竟然组成了一个政党，而这个党还奇迹般的打入了欧洲议会。而这个党的党魁已经将自己全部身家压在了比特币上，他会不会要求自己的数万党员用比特币交党费？当然，前提是要有党费存在。海盗党如果和比特币联手&ndash;那么比特币至少在瑞典应该不会被禁止了。这个世界，任何神奇的事情都会发生，关键看你有没有想象力了。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-<h1>Recent Comments</h1>
-
-<ul class="ds-recent-comments" data-num-items="10" data-show-avatars="1" data-show-time="1" data-show-title="1" data-show-admin="1" data-excerpt-length="18"></ul>
-<!--多说js加载开始，一个页面只需要加载一次 -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"opendbank"};
-(function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = 'http://static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
-})();
-</script>
-<!--多说js加载结束，一个页面只需要加载一次 -->
-
-</section>
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2016/06/07/zui-feng-kuang-de-bi-te-bi-yong-hu/">最疯狂的比特币用户</a>
-      </li>
-    
-  </ul>
-</section>
-<section> 
-  <h1>文章分类</h1> 
-  <ul id="categories"> 
-    <li class='category'><a href='/blog/categories/funny/'>funny (1)</a></li>
-<li class='category'><a href='/blog/categories/history/'>history (1)</a></li>
-  
-    </ul> 
-</section>
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2016 - opendbank -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
