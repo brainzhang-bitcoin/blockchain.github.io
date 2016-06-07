@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://opendbank.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://opendbank.com
+title: opendbank.com
+subtitle: btc blockchain
+author: opendbank
 simple_search: https://www.google.com/search
 description:
 
