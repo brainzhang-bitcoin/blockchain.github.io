@@ -5,9 +5,6 @@ date: 2016-06-07 21:42:36 +0800
 comments: true
 categories: history funny
 ---
-* list element with functor item
-{:toc}
-
 ## 注
 
 这是比较早期的文章，文章的作者老端属于国内最早的玩家之一，现在也是英雄总被雨打风吹去了。老端也早就由粉转黑，不过现在看看，不失为介绍比特币的一篇妙文。
