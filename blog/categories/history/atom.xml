@@ -4,7 +4,7 @@
   <title><![CDATA[Category: History | opendbank.com]]></title>
   <link href="http://opendbank.com/blog/categories/history/atom.xml" rel="self"/>
   <link href="http://opendbank.com/"/>
-  <updated>2016-06-08T22:42:46+08:00</updated>
+  <updated>2016-06-08T22:47:06+08:00</updated>
   <id>http://opendbank.com/</id>
   <author>
     <name><![CDATA[opendbank]]></name>
@@ -138,7 +138,13 @@
     <link href="http://opendbank.com/blog/2016/06/07/zui-feng-kuang-de-bi-te-bi-yong-hu/"/>
     <updated>2016-06-07T21:42:36+08:00</updated>
     <id>http://opendbank.com/blog/2016/06/07/zui-feng-kuang-de-bi-te-bi-yong-hu</id>
-    <content type="html"><![CDATA[<h2>注</h2>
+    <content type="html"><![CDATA[<ul>
+<li>list element with functor item
+{:toc}</li>
+</ul>
+
+
+<h2>注</h2>
 
 <p>这是比较早期的文章，文章的作者老端属于国内最早的玩家之一，现在也是英雄总被雨打风吹去了。老端也早就由粉转黑，不过现在看看，不失为介绍比特币的一篇妙文。</p>
 
