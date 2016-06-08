@@ -5,6 +5,8 @@ date: 2016-06-07 21:42:36 +0800
 comments: true
 categories: history funny
 ---
+* list element with functor item
+{:toc}
 
 ## 注
 
