@@ -2,14 +2,22 @@
 Error: List index is 2 but list is only 1 item long for `nth'
         on line 40 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss, in `transition-property'
         from line 234 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss
-        from line 2 of /home/memorybox/github/opendbank/sass/screen.scss
-        from line 9 of /home/memorybox/github/opendbank/sass/screen.scss
+
+35: }
+36: 
+37: @function prefix-properties($properties, $prefix) {
+38:     $new-props: property-checker(nth($properties, 1), $prefix);
+39:     @for $i from 2 through length($properties) {
+40:         $new-props: $new-props + ", " + property-checker(nth($properties, $i), $prefix);
+41:     }
+42:     @return unquote($new-props);
+43: }
+44: 
+45: @function property-checker($property, $prefix) {
 
 Backtrace:
 /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss:40:in `transition-property'
 /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss:234
-/home/memorybox/github/opendbank/sass/screen.scss:2
-/home/memorybox/github/opendbank/sass/screen.scss:9
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/script/tree/funcall.rb:310:in `reformat_argument_error'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/script/tree/funcall.rb:149:in `rescue in _perform'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/script/tree/funcall.rb:123:in `_perform'
@@ -104,32 +112,6 @@ Backtrace:
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:328:in `block (2 levels) in visit_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:328:in `map'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:328:in `block in visit_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:88:in `block in with_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:88:in `with_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:325:in `visit_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:328:in `block (2 levels) in visit_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:328:in `map'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:328:in `block in visit_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:88:in `block in with_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:88:in `with_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:325:in `visit_import'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
-/usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:52:in `map'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:52:in `visit_children'
@@ -163,4 +145,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: List index is 2 but list is only 1 item long for `nth'\A         on line 40 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss, in `transition-property'\A         from line 234 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss\A         from line 2 of /home/memorybox/github/opendbank/sass/screen.scss\A         from line 9 of /home/memorybox/github/opendbank/sass/screen.scss"; }
+  content: "Error: List index is 2 but list is only 1 item long for `nth'\A         on line 40 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss, in `transition-property'\A         from line 234 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss\A \A 35: }\A 36: \A 37: @function prefix-properties($properties, $prefix) {\A 38:     $new-props: property-checker(nth($properties, 1), $prefix);\A 39:     @for $i from 2 through length($properties) {\A 40:         $new-props: $new-props + \", \" + property-checker(nth($properties, $i), $prefix);\A 41:     }\A 42:     @return unquote($new-props);\A 43: }\A 44: \A 45: @function property-checker($property, $prefix) {"; }
