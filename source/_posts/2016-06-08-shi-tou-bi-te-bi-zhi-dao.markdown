@@ -6,9 +6,10 @@ comments: true
 categories: history finance
 ---
 
-## 注
 这是一篇妙文，讲述了我们人类世界一直习以为常的货币，其本质是什么，你会看到，早期的石头货币与现在数字货币并没有什么不同。
-## 转载自:
+
+转载自:
+
 http://www.8btc.com/the-island-of-stone-bitcoins
 {:.info}
 
