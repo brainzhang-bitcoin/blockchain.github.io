@@ -12,8 +12,9 @@ $main-bg: #f8f8f8 !default;
 $page-bg: #252525 !default;
 $article-border: #eeeeee !default;
 
-$header-bg: #333 !default;
-$header-border: lighten($header-bg, 15) !default;
+$header-bg: transparent !default; /*此行为新添代码，实现网站标题背景透明，取代下两行*/
+//$header-bg: #333 !default; 
+//$header-border: lighten($header-bg, 15) !default;
 $title-color: #f2f2f2 !default;
 $subtitle-color: #aaa !default;
 
@@ -61,6 +62,7 @@ $page-border-bottom: darken($footer-bg, 5) !default;
 /* Core theme application */
 
 a {
+  text-decoration: none; //此行新添
   @include link-colors($link-color, $hover: $link-color-hover, $focus: $link-color-hover, $visited: $link-color-visited, $active: $link-color-active);
 }
 aside.sidebar a {
@@ -71,7 +73,7 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+  background: #191919 image-url('line-tile.png') top left; //$page-bg image-url('line-tile.png') top left;
 }
 body {
   > div {

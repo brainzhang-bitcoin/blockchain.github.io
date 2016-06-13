@@ -1,5 +1,176 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-.blog-index #markdown-toc {
-  display: none;
+/* 
+body > header h1 {
+  font-size: 2.2em;
+  @extend .heading;
+  font-family: $header-title-font-family;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin-bottom: 0.6667em;
+}
+*/
+
+h2 {
+  line-height: 1.2em;
+}
+
+.sidebar {
+.search {
+  padding: 0.2em;
+  font-size: 1em;
+  font-family: $sans;
+  line-height: 1.4em;
+  margin-top: 0em;
+  margin-bottom: 1.6em;
+  width: 95%;
+  @include border-radius(.3em);
+  @include background-clip(padding-box);
+  //box-shadow: lighten($nav-bg, 2) 0 1px;
+  background-color: ($nav-bg, 15);
+  border: 1px solid $nav-border;
+  color: #888;
+  &:focus {
+    color: #444;
+    border-color: #80b1df;
+    box-shadow: #80b1df 0 0 4px, #80b1df 0 0 3px inset;
+    background-color: #fff;
+    outline: none;
+  }
+}
+fieldset[role=search]{ float: left; width: 100%; }
+fieldset.mobile-nav{ float: left; width: 48%;
+  select{ width: 100%; font-size: .8em; border: 1px solid #888;}
+}
+}
+
+h1 {
+  font-size: 2.2em;
+  line-height: 1.2em;
+}
+
+ul, ol {margin-bottom: 0.6em;}
+
+/* Coderay */
+@import "custom/coderay";
+/* overrides of the lousy styles from _syntax.scss */
+/* Coderay plugin 边框设定*/
+.CodeRay pre, p code, li code {
+  border: 1px solid #565656;
+  border-top-color: #cbcbcb;
+  border-left-color: #a5a5a5;
+  border-right-color: #a5a5a5;
+  background: none;
+  color: #000;
+  &::-webkit-scrollbar {  height: .5em; background: $solar-scroll-bg; }
+  &::-webkit-scrollbar-thumb:horizontal { background: $solar-scroll-thumb; border:solid #C0C0C0; -webkit-border-radius: 4px; border-radius: 4px }
+}
+
+/* fixes issue where the whole line wouldn't get colored in a diff */
+.CodeRay span.insert, .CodeRay span.change, .CodeRay span.delete {
+        width: auto;
+}
+
+/*!
+ *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+
+@import "fa-scss/variables";
+@import "fa-scss/mixins";
+@import "fa-scss/path";
+@import "fa-scss/core";
+@import "fa-scss/larger";
+@import "fa-scss/fixed-width";
+@import "fa-scss/list";
+@import "fa-scss/bordered-pulled";
+@import "fa-scss/spinning";
+@import "fa-scss/rotated-flipped";
+@import "fa-scss/stacked";
+@import "fa-scss/icons";
+
+
+
+/* sidebar social media for about aside*/
+
+.sideabout {
+	text-align: justify;
+	margin-bottom: 0em;
+}
+
+
+/* 导航栏倒圆角 */
+@media only screen and (min-width: 1040px) {
+        body > nav {
+                @include border-top-radius(.4em);
+        }
+
+        body > footer {
+                @include border-bottom-radius(.4em);
+        }
+}
+
+/* image pop imgpop*/
+
+.image-drag {
+    position: absolute !important;
+}
+
+.image-caption {
+    z-index: 2000;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    height: 24px;
+    padding: 10px;
+    
+}
+
+.image-caption:hover > div {
+    display: block;
+}
+
+.image-caption:hover {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.capt-left {
+    display: none;
+    float: left;
+    color: white;
+}
+
+.capt-right {
+    display: none;
+    float: right;
+}
+
+.ui-widget-content .ui-dialog-content {
+    padding: 0px;
+}
+
+.ui-widget-content a {
+    color: white;
+}
+
+.noTitle .ui-dialog-titlebar { display: none; }
+
+.noTitle {
+    position: fixed;
+};
+
+.ui-widget-overlay {
+    position: fixed;
+}
+
+.proxy-container {
+    position: absolute;
+}
+
+
+//adn ul
+.ul-adn{
+	list-style:none;
+	margin:0px;
+	padding:0px;
 }
