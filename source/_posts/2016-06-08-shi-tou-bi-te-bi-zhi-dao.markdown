@@ -7,8 +7,6 @@ categories: history finance
 ---
 
 这是一篇妙文，讲述了我们人类世界一直习以为常的货币，其本质是什么，你会看到，早期的石头货币与现在数字货币并没有什么不同。
-
-转载自:[http://www.8btc.com/the-island-of-stone-bitcoins](http://www.8btc.com/the-island-of-stone-bitcoins)
 {:.info}
 
 ## 正文
@@ -116,3 +114,6 @@ categories: history finance
 当我们是一个个的个体时，他们可以伤害到我们，这是真的。但是我们不能给予他们比现在应得的更多的权力了。只要我们在加密货币和法币之间来回犹疑，我们就会被压在他们的拇指下。我们用比特币作为货币来交易的次数越多，而不是用它来作为增加美元收益的投机媒介，我们就保障了更多的自由。商业和价值是人类而不是政治实体的创造。并且通过寻求他们的批准以及安抚他们的率性，我们把政治权威交给了他们。
 
 如果我们继续自愿的按照他们的规则来玩比特币这个游戏，我们最后可能就会开始相信他们。到时候，比特币就不再是比特币了。它将变成他们的玩物。
+
+转载自:[http://www.8btc.com/the-island-of-stone-bitcoins](http://www.8btc.com/the-island-of-stone-bitcoins)
+{:.info}
