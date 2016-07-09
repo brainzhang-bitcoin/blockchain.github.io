@@ -143,6 +143,5 @@ categories: tec
 
 这是我觉得最靠谱的答案，因为从中本聪的过往言论可以看出，他不是一个完美主义者，而是一个实用主义者。
 
-
 转载自: [http://www.8btc.com/21million00](http://www.8btc.com/21million00)
 {:.info}
