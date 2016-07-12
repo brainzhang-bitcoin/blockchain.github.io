@@ -4,7 +4,7 @@
   <title><![CDATA[opendbank.com]]></title>
   <link href="http://opendbank.com/atom.xml" rel="self"/>
   <link href="http://opendbank.com/"/>
-  <updated>2016-07-12T22:31:14+08:00</updated>
+  <updated>2016-07-12T22:33:36+08:00</updated>
   <id>http://opendbank.com/</id>
   <author>
     <name><![CDATA[opendbank]]></name>
@@ -23,6 +23,8 @@
 <p>你知道你的比特币现在身处何方么？真心希望它们仍旧在你的钱包里，比特币历史上充斥着各种人为错误，软件的不给力，甚至能够让狂野的西部歹徒都能够脱帽敬礼的盗窃案发生。</p>
 
 <p>比特币是一种人造的开源技术，它并非上天所赐的礼物。这里列举了比特币历史上的九大悲剧。</p>
+
+<!-- more -->
 
 <h2 id="section">第九名. 曾经有人想要造假920亿比特币</h2>
 <p>在2010年8月8日的时候，比特币开发者Jeff Garzik 在bitcointalk.org上轻描淡写地谈到：“我们这里遇到了一个问题，这个区块的输出非常奇怪，”这里面包含了920亿个比特币，远比现今比特币的总数要多的多。</p>
