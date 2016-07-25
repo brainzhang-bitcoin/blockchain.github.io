@@ -66,11 +66,11 @@ categories: tec
 
 #### 【答案1】
 
-    It’s the first half of the answer: 42.
-
-    翻译：因为21是终极答案42的一半。
-
-    （说明：英语里，2100万表示为：21 million。所以，老外一般直接问：为啥是21。）
+>It’s the first half of the answer: 42.
+>
+>翻译：因为21是终极答案42的一半。
+>
+>（说明：英语里，2100万表示为：21 million。所以，老外一般直接问：为啥是21。）
 
 当然，他是开玩笑的。不过，我个人最喜欢这个猜测，这也是reddit里顶的人最多的。
 
@@ -78,40 +78,40 @@ categories: tec
 
 #### 【答案2】
 
-    Because we’re living in the 21st century!
-
-    翻译：因为我们生活在21世纪！
+>Because we’re living in the 21st century!
+>
+>翻译：因为我们生活在21世纪！
 
 太天真，不忍吐槽。
 
 #### 【答案3】
 
-    He chose a reward scheme and 10 minute blocks. When he did the math, it came to 21 million. He didn’t choose the 21 million, he just accepted the consequence of the parameters he chose.
-
-    翻译：中本聪订好10分钟、50币、4年减半的原则，结果自然出来了。他没有选，而是接受了这个自然的结果。
+>He chose a reward scheme and 10 minute blocks. When he did the math, it came to 21 million. He didn’t choose the 21 million, he just accepted the consequence of the parameters he chose.
+>
+>翻译：中本聪订好10分钟、50币、4年减半的原则，结果自然出来了。他没有选，而是接受了这个自然的结果。
 
 这个答案也是有可能的。中本聪在比特币中的很多选择确实是撞大运的，但都是“基于经验的撞大运”。
 
 #### 【答案4】
 
-    All gold mined in human history can be fit into a cube roughly 21 meters on each side.
-    Satoshi created bitcoin with the idea of being sort of a digital analog of gold (finite supply, mining, etc), as well as the fact that it built upon Nick Szabo’s “Bit Gold” proposal, so I think that 21 million was sort of a clever nod to that.
-
-    翻译：全世界所有黄金熔在一起，是一个边长大约为21米的正方体。中本聪用这个概念，隐喻比特币是一种虚拟黄金。
+>All gold mined in human history can be fit into a cube roughly 21 meters on each side.
+>Satoshi created bitcoin with the idea of being sort of a digital analog of gold (finite supply, mining, etc), as well as the fact that it built upon Nick Szabo’s “Bit Gold” proposal, so I think that 21 million was sort of a clever nod to that.
+>
+>翻译：全世界所有黄金熔在一起，是一个边长大约为21米的正方体。中本聪用这个概念，隐喻比特币是一种虚拟黄金。
 
 原来阴谋论不止中国有…
 
 #### 【答案5】
 
-    I was going to say: Satoshi likes to play Vegas blackjack.
-
-    翻译：我觉得中本聪喜欢玩21点。
+>I was going to say: Satoshi likes to play Vegas blackjack.
+>
+>翻译：我觉得中本聪喜欢玩21点。
 
 上帝玩骰子么？
 
 #### 【答案6】
 
-    计算机双精度浮点数最多存储2^53精度的数。而比特币按最小单位算的总精度是2^51，刚好够用。（英文太长不贴了）
+>计算机双精度浮点数最多存储2^53精度的数。而比特币按最小单位算的总精度是2^51，刚好够用。（英文太长不贴了）
 
 这个答案，出现在一篇很不错的文章里《中本聪的天才：比特币以意想不到的方式躲开了一些密码学子弹》
 
@@ -139,10 +139,10 @@ categories: tec
 
 ####【答案7】
 
-    That explanation is close but not entirely compelling. IEEE double-precision floating-point format has 53 bits of significand precision, meaning it can address up to 253 − 1 satoshis without any rounding error. Well, that’s 9,007,199,254,740,991 satoshis, which is not anywhere close to 2,100,000,000,000,000 satoshis (or even 2,099,999,997,690,000 satoshis, which is the actual asymptotic limit).
-    I think a much more compelling explanation is that a signed 32-bit integer can store values up to 231 − 1, which is 2,147,483,647. If you assume a fixed-point format with two decimal digits of fractional precision (which is typical for money), then a signed 32-bit integer can address up to 21,474,836.47 bitcoins, which we might as well round off to 21 million. My guess is that Satoshi derived the 21-million limit from here early in development and then later realized that this wouldn’t be enough currency units and so extended the number of decimal places from 2 to 8 and changed the variables from 32-bit to 64-bit.
-
-    翻译：答案6的解释很接近，但有点牵强。IEEE双精度浮点数是53bits，能表示的最大数是9,007,199,254,740,991聪，而比特币是2,099,999,997,690,000聪，差别还是很大的。
+>That explanation is close but not entirely compelling. IEEE double-precision floating-point format has 53 bits of significand precision, meaning it can address up to 253 − 1 satoshis without any rounding error. Well, that’s 9,007,199,254,740,991 satoshis, which is not anywhere close to 2,100,000,000,000,000 satoshis (or even 2,099,999,997,690,000 satoshis, which is the actual asymptotic limit).
+>I think a much more compelling explanation is that a signed 32-bit integer can store values up to 231 − 1, which is 2,147,483,647. If you assume a fixed-point format with two decimal digits of fractional precision (which is typical for money), then a signed 32-bit integer can address up to 21,474,836.47 bitcoins, which we might as well round off to 21 million. My guess is that Satoshi derived the 21-million limit from here early in development and then later realized that this wouldn’t be enough currency units and so extended the number of decimal places from 2 to 8 and changed the variables from 32-bit to 64-bit.
+>
+>翻译：答案6的解释很接近，但有点牵强。IEEE双精度浮点数是53bits，能表示的最大数是9,007,199,254,740,991聪，而比特币是2,099,999,997,690,000聪，差别还是很大的。
 
 我觉得更好的解释：有符号32位整数可存储最大2^32-1的数，是2,147,483,647。如果比特币是小数点后两位的话，就是21,474,836.47个比特币。也就是21-million。我猜中本聪在最初开发的时候用32位精度的整数，后来发现对于一种全球通用货币来说这个精度不够，所以把小数点后2位延展成8位，从32位存储改成64位存储。
 
