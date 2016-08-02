@@ -4,7 +4,7 @@
   <title><![CDATA[opendbank.com]]></title>
   <link href="http://opendbank.com/atom.xml" rel="self"/>
   <link href="http://opendbank.com/"/>
-  <updated>2016-07-25T08:14:05+08:00</updated>
+  <updated>2016-08-03T07:58:11+08:00</updated>
   <id>http://opendbank.com/</id>
   <author>
     <name><![CDATA[opendbank]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bitfinex演出的第十大悲剧]]></title>
+    <link href="http://opendbank.com/blog/2016/08/03/bitfinexyan-chu-de-di-shi-da-bei-ju/"/>
+    <updated>2016-08-03T07:52:17+08:00</updated>
+    <id>http://opendbank.com/blog/2016/08/03/bitfinexyan-chu-de-di-shi-da-bei-ju</id>
+    <content type="html"><![CDATA[<p class="info">比特币扩容争论貌似刚刚出现曙光，但Bitfinex不甘寂寞，倾情出演比特币史上的又一出悲剧。</p>
+
+<!-- more -->
+
+<p>2016-08-03，reddit上面已经有人确认，Bitfinex被盗119756个btc.</p>
+
+<p>可悲的是Bitfinex没有使用冷钱包。</p>
+
+<p>https://www.reddit.com/r/Bitcoin/comments/4vupa6/p2shinfo_shows_movement_out_of_multisig_wallets/d61oe33</p>
+
+<p>受此影响，币价大跌超过30%。</p>
+
+<p>比特币世界中总不缺黑天鹅，后人哀之而不鉴之。这些悲剧会一直重演下去。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bitfinex的又一个悲剧]]></title>
+    <link href="http://opendbank.com/blog/2016/08/03/bitfinexde-you-%5B%3F%5D-ge-bei-ju/"/>
+    <updated>2016-08-03T07:50:08+08:00</updated>
+    <id>http://opendbank.com/blog/2016/08/03/bitfinexde-you-[?]-ge-bei-ju</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[比特币史上的九大悲剧]]></title>
