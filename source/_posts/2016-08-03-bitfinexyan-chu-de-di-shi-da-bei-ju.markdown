@@ -11,11 +11,10 @@ categories: history
 
 <!-- more -->
 
-2016-08-03，reddit上面已经有人确认，Bitfinex被盗119756个btc.
+2016-08-03，[reddit](https://www.reddit.com/r/Bitcoin/comments/4vupa6/p2shinfo_shows_movement_out_of_multisig_wallets/d61oe33)上面已经有人确认，Bitfinex被盗119756个btc.
 
 可悲的是Bitfinex没有使用冷钱包。
 
-https://www.reddit.com/r/Bitcoin/comments/4vupa6/p2shinfo_shows_movement_out_of_multisig_wallets/d61oe33
 
 受此影响，币价大跌超过30%。
 
