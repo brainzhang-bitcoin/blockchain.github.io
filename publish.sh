@@ -2,5 +2,5 @@
 bundle exec rake generate
 bundle exec rake deploy
 git add .
-git ci -a -m "perfect synatx"
+git commit -a -m "add new post"
 git push origin source -f
