@@ -4,7 +4,7 @@
   <title><![CDATA[分类：history | btcme.com]]></title>
   <link href="http://btcme.com/blog/categories/history/atom.xml" rel="self"/>
   <link href="http://btcme.com/"/>
-  <updated>2017-03-07T10:31:06+08:00</updated>
+  <updated>2017-03-07T22:02:20+08:00</updated>
   <id>http://btcme.com/</id>
   <author>
     <name><![CDATA[btcme]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ant Pool Support Bitcoin Ulimited]]></title>
+    <link href="http://btcme.com/blog/2017/03/07/ant-pool-support-bitcoin-ulimited/"/>
+    <updated>2017-03-07T21:58:17+08:00</updated>
+    <id>http://btcme.com/blog/2017/03/07/ant-pool-support-bitcoin-ulimited</id>
+    <content type="html"><![CDATA[<p>北京时间3月7日凌晨2点半左右，当前比特币全网算力排名第一的矿池蚁池（AntPool）的某个节点通过替代版比特币软件Bitcoin Unlimited（BU）挖到了一个[新区块] (https://btc.com/00000000000000000204cd2c9840023f1434f3dcdd7f471e4b8c8638d14d7006)，这标志着蚁池正式向Bitcoin Unlimited（BU）开放投票。</p>
+
+<p>目前蚁池的算力占全网算力的13%左右，加上已有的支持BU的算力，BU支持率达到30%以上。</p>
+
+<p>也许未来一个月很快就会发生一些有趣的事情，这是Bitcoin系统运行8年来的最大波澜。</p>
+
+<p>大家拭目以待。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bitfinex演出的第十大悲剧]]></title>
