@@ -39,7 +39,7 @@ categories: history finance
 
 没人打算搬动这些该死的东西。它们太重了，并且社区关系紧密；所以干嘛费这个事呢？
 
-![石头货币](https://raw.githubusercontent.com/opendbank/opendbank.github.io/source/images/20160608/stone.jpg)
+![石头货币](https://raw.githubusercontent.com/btcme/btcme.github.io/source/images/20160608/stone.jpg)
 
 所以随着时间的流逝，这些石头却从不会被移动。所有权从来没有被标记或者记录在石头上，这是没有必要的。交易业务都是公开进行并宣布的，并且任何给定的石头的真正所有者对于任何住在附近的人来说，都是常识。
 

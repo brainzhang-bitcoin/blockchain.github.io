@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://opendbank.com
-title: opendbank.com
+url: http://btcme.com
+title: btcme.com
 subtitle: 关注BTC，关注Blockchain，新鲜、中立、严肃的业界资讯站。
-author: opendbank
+author: btcme
 simple_search: https://www.google.com/search
 description:
 
@@ -99,7 +99,7 @@ disqus_show_comment_count: false
 
 # duoshuo
 duoshuo_comments: true
-duoshuo_short_name: opendbank
+duoshuo_short_name: btcme
 
 duoshuo_asides_num: 10      # 侧边栏评论显示条目数
 duoshuo_asides_avatars: 1   # 侧边栏评论是否显示头像

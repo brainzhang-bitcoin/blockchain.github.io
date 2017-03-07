@@ -1,7 +1,7 @@
 /*
 Error: List index is 2 but list is only 1 item long for `nth'
-        on line 40 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss, in `transition-property'
-        from line 234 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss
+        on line 40 of /home/github/btcme.github.io/sass/plugins/bigfoot-number.scss, in `transition-property'
+        from line 234 of /home/github/btcme.github.io/sass/plugins/bigfoot-number.scss
 
 35: }
 36: 
@@ -16,8 +16,8 @@ Error: List index is 2 but list is only 1 item long for `nth'
 45: @function property-checker($property, $prefix) {
 
 Backtrace:
-/home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss:40:in `transition-property'
-/home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss:234
+/home/github/btcme.github.io/sass/plugins/bigfoot-number.scss:40:in `transition-property'
+/home/github/btcme.github.io/sass/plugins/bigfoot-number.scss:234
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/script/tree/funcall.rb:310:in `reformat_argument_error'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/script/tree/funcall.rb:149:in `rescue in _perform'
 /usr/local/rvm/gems/ruby-2.2.1/gems/sass-3.4.22/lib/sass/script/tree/funcall.rb:123:in `_perform'
@@ -145,4 +145,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: List index is 2 but list is only 1 item long for `nth'\A         on line 40 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss, in `transition-property'\A         from line 234 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss\A \A 35: }\A 36: \A 37: @function prefix-properties($properties, $prefix) {\A 38:     $new-props: property-checker(nth($properties, 1), $prefix);\A 39:     @for $i from 2 through length($properties) {\A 40:         $new-props: $new-props + \", \" + property-checker(nth($properties, $i), $prefix);\A 41:     }\A 42:     @return unquote($new-props);\A 43: }\A 44: \A 45: @function property-checker($property, $prefix) {"; }
+  content: "Error: List index is 2 but list is only 1 item long for `nth'\A         on line 40 of /home/github/btcme.github.io/sass/plugins/bigfoot-number.scss, in `transition-property'\A         from line 234 of /home/memorybox/github/opendbank/sass/plugins/bigfoot-number.scss\A \A 35: }\A 36: \A 37: @function prefix-properties($properties, $prefix) {\A 38:     $new-props: property-checker(nth($properties, 1), $prefix);\A 39:     @for $i from 2 through length($properties) {\A 40:         $new-props: $new-props + \", \" + property-checker(nth($properties, $i), $prefix);\A 41:     }\A 42:     @return unquote($new-props);\A 43: }\A 44: \A 45: @function property-checker($property, $prefix) {"; }

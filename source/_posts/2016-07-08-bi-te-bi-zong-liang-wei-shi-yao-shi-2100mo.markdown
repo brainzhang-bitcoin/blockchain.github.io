@@ -32,7 +32,7 @@ categories: tec
 比特币产生的时间表：
 
 
-![时间表](https://raw.githubusercontent.com/opendbank/opendbank.github.io/source/images/20160708/time.png)
+![时间表](https://raw.githubusercontent.com/btcme/btcme.github.io/source/images/20160708/time.png)
 
 下面挑几个重点分析一下这张表。
 

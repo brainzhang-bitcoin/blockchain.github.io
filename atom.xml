@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://opendbank.github.io/atom.xml" rel="self"/>
-  <link href="http://opendbank.github.io/"/>
+  <link href="http://btcme.github.io/atom.xml" rel="self"/>
+  <link href="http://btcme.github.io/"/>
   <updated>2016-06-06T22:21:56+08:00</updated>
-  <id>http://opendbank.github.io/</id>
+  <id>http://btcme.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
-    
+
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
+
 </feed>
