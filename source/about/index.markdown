@@ -23,7 +23,7 @@ footer: true
 Octopress的样式参照了[生命之氢](https://shengmingzhiqing.com/)，非常感谢。
 
 
-## 联系我
+## 联系我-contact me:
 
 -----------------------------
 
