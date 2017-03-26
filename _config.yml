@@ -94,19 +94,19 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: btcme
+disqus_show_comment_count: true
 
 # duoshuo
-duoshuo_comments: true
-duoshuo_short_name: btcme
-
-duoshuo_asides_num: 10      # 侧边栏评论显示条目数
-duoshuo_asides_avatars: 1   # 侧边栏评论是否显示头像
-duoshuo_asides_time: 1      # 侧边栏评论是否显示时间
-duoshuo_asides_title: 1     # 侧边栏评论是否显示标题
-duoshuo_asides_admin: 1     # 侧边栏评论是否显示作者评论
-duoshuo_asides_length: 18   # 侧边栏评论截取的长度
+#duoshuo_comments: true
+#duoshuo_short_name: btcme
+#
+#duoshuo_asides_num: 10      # 侧边栏评论显示条目数
+#duoshuo_asides_avatars: 1   # 侧边栏评论是否显示头像
+#duoshuo_asides_time: 1      # 侧边栏评论是否显示时间
+#duoshuo_asides_title: 1     # 侧边栏评论是否显示标题
+#duoshuo_asides_admin: 1     # 侧边栏评论是否显示作者评论
+#duoshuo_asides_length: 18   # 侧边栏评论截取的长度
 
 
 
