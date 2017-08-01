@@ -1,0 +1,9 @@
+---
+layout: post
+title: "btc UAHF"
+date: 2017-08-01 22:11:54 +0800
+comments: true
+categories: history
+---
+
+UTC时间 2017-08-01 18:12，UAHF[第一个大于1MB的块](https://blockchair.com/bitcoin-cash/block/478559)被挖出，虽然现在算力占比很小，但值得关注，UAHF是否能存活下去，算力来决定吧。
