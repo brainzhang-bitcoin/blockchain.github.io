@@ -4,7 +4,7 @@
   <title><![CDATA[btcme.com]]></title>
   <link href="http://btcme.com/atom.xml" rel="self"/>
   <link href="http://btcme.com/"/>
-  <updated>2017-03-26T16:59:20+08:00</updated>
+  <updated>2017-08-02T06:55:28+08:00</updated>
   <id>http://btcme.com/</id>
   <author>
     <name><![CDATA[btcme]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Btc UAHF]]></title>
+    <link href="http://btcme.com/blog/2017/08/01/btc-uahf/"/>
+    <updated>2017-08-01T22:11:54+08:00</updated>
+    <id>http://btcme.com/blog/2017/08/01/btc-uahf</id>
+    <content type="html"><![CDATA[<p>UTC时间 2017-08-01 18:12，UAHF<a href="https://blockchair.com/bitcoin-cash/block/478559">第一个大于1MB的块</a>被挖出，虽然现在算力占比很小，但值得关注，UAHF是否能存活下去，算力来决定吧。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ant Pool Support Bitcoin Ulimited]]></title>

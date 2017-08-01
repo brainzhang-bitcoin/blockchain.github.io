@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://btcme.com/blog/2017/08/01/btc-uahf/</loc>
+<lastmod>2017-08-01T22:11:54+08:00</lastmod>
+</url>
+<url>
 <loc>http://btcme.com/blog/2017/03/07/ant-pool-support-bitcoin-ulimited/</loc>
 <lastmod>2017-03-07T21:58:17+08:00</lastmod>
 </url>
