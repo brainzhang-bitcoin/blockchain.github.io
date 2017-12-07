@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类：finance | btcme.com]]></title>
-  <link href="http://btcme.com/blog/categories/finance/atom.xml" rel="self"/>
-  <link href="http://btcme.com/"/>
-  <updated>2017-12-07T13:15:22+08:00</updated>
-  <id>http://btcme.com/</id>
+  <title><![CDATA[分类：finance | btcme]]></title>
+  <link href="http://btcme.github.io/blog/categories/finance/atom.xml" rel="self"/>
+  <link href="http://btcme.github.io/"/>
+  <updated>2017-12-07T18:36:49+08:00</updated>
+  <id>http://btcme.github.io/</id>
   <author>
     <name><![CDATA[btcme]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[石头比特币之岛]]></title>
-    <link href="http://btcme.com/blog/2016/06/08/shi-tou-bi-te-bi-zhi-dao/"/>
+    <link href="http://btcme.github.io/blog/2016/06/08/shi-tou-bi-te-bi-zhi-dao/"/>
     <updated>2016-06-08T22:26:46+08:00</updated>
-    <id>http://btcme.com/blog/2016/06/08/shi-tou-bi-te-bi-zhi-dao</id>
+    <id>http://btcme.github.io/blog/2016/06/08/shi-tou-bi-te-bi-zhi-dao</id>
     <content type="html"><![CDATA[<p class="info">这是一篇妙文，讲述了我们人类世界一直习以为常的货币，其本质是什么，你会看到，早期的石头货币与现在数字货币并没有什么不同。</p>
 
 <h2 id="section">正文</h2>

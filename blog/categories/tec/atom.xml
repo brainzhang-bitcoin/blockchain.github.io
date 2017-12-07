@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类：tec | btcme.com]]></title>
-  <link href="http://btcme.com/blog/categories/tec/atom.xml" rel="self"/>
-  <link href="http://btcme.com/"/>
-  <updated>2017-12-07T13:15:22+08:00</updated>
-  <id>http://btcme.com/</id>
+  <title><![CDATA[分类：tec | btcme]]></title>
+  <link href="http://btcme.github.io/blog/categories/tec/atom.xml" rel="self"/>
+  <link href="http://btcme.github.io/"/>
+  <updated>2017-12-07T18:36:49+08:00</updated>
+  <id>http://btcme.github.io/</id>
   <author>
     <name><![CDATA[btcme]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[比特币总量为什么是2100万]]></title>
-    <link href="http://btcme.com/blog/2016/07/08/bi-te-bi-zong-liang-wei-shi-yao-shi-2100mo/"/>
+    <link href="http://btcme.github.io/blog/2016/07/08/bi-te-bi-zong-liang-wei-shi-yao-shi-2100mo/"/>
     <updated>2016-07-08T22:28:27+08:00</updated>
-    <id>http://btcme.com/blog/2016/07/08/bi-te-bi-zong-liang-wei-shi-yao-shi-2100mo</id>
+    <id>http://btcme.github.io/blog/2016/07/08/bi-te-bi-zong-liang-wei-shi-yao-shi-2100mo</id>
     <content type="html"><![CDATA[<p class="info">比特币第二次减半将至，为什么比特币总量设置为2100万呢？这篇文章谈笑中有几分戏谑，但都是有的放矢，值得一读。</p>
 
 <h2 id="section">正文</h2>

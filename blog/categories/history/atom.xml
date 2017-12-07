@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类：history | btcme.com]]></title>
-  <link href="http://btcme.com/blog/categories/history/atom.xml" rel="self"/>
-  <link href="http://btcme.com/"/>
-  <updated>2017-12-07T13:15:22+08:00</updated>
-  <id>http://btcme.com/</id>
+  <title><![CDATA[分类：history | btcme]]></title>
+  <link href="http://btcme.github.io/blog/categories/history/atom.xml" rel="self"/>
+  <link href="http://btcme.github.io/"/>
+  <updated>2017-12-07T18:36:49+08:00</updated>
+  <id>http://btcme.github.io/</id>
   <author>
     <name><![CDATA[btcme]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[NiceHash被盗]]></title>
-    <link href="http://btcme.com/blog/2017/12/07/nicehashbei-dao/"/>
+    <link href="http://btcme.github.io/blog/2017/12/07/nicehashbei-dao/"/>
     <updated>2017-12-07T13:13:52+08:00</updated>
-    <id>http://btcme.com/blog/2017/12/07/nicehashbei-dao</id>
+    <id>http://btcme.github.io/blog/2017/12/07/nicehashbei-dao</id>
     <content type="html"><![CDATA[<p class="info">Nicehash 被盗 4700+币</p>
 
 <p>比 bitfinex 要幸运一点，这次发现的比较早，但是按照现在的币价大涨来算，损失也超过了 6000w USD，上次 bitfinex 11w 币不过折合 7000w USD 而已。</p>
@@ -34,18 +34,18 @@
   
   <entry>
     <title type="html"><![CDATA[Btc UAHF]]></title>
-    <link href="http://btcme.com/blog/2017/08/01/btc-uahf/"/>
+    <link href="http://btcme.github.io/blog/2017/08/01/btc-uahf/"/>
     <updated>2017-08-01T22:11:54+08:00</updated>
-    <id>http://btcme.com/blog/2017/08/01/btc-uahf</id>
+    <id>http://btcme.github.io/blog/2017/08/01/btc-uahf</id>
     <content type="html"><![CDATA[<p>UTC时间 2017-08-01 18:12，UAHF<a href="https://blockchair.com/bitcoin-cash/block/478559">第一个大于1MB的块</a>被挖出，虽然现在算力占比很小，但值得关注，UAHF是否能存活下去，算力来决定吧。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Ant Pool Support Bitcoin Ulimited]]></title>
-    <link href="http://btcme.com/blog/2017/03/07/ant-pool-support-bitcoin-ulimited/"/>
+    <link href="http://btcme.github.io/blog/2017/03/07/ant-pool-support-bitcoin-ulimited/"/>
     <updated>2017-03-07T21:58:17+08:00</updated>
-    <id>http://btcme.com/blog/2017/03/07/ant-pool-support-bitcoin-ulimited</id>
+    <id>http://btcme.github.io/blog/2017/03/07/ant-pool-support-bitcoin-ulimited</id>
     <content type="html"><![CDATA[<p class="info">比特币诞生8年来最大波澜即将到来，大家拭目以待。</p>
 
 <p>北京时间3月7日凌晨2点半左右，当前比特币全网算力排名第一的矿池蚁池（AntPool）的某个节点通过替代版比特币软件Bitcoin Unlimited（BU）挖到了一个<a href="https://btc.com/00000000000000000204cd2c9840023f1434f3dcdd7f471e4b8c8638d14d7006">新区块</a>，这标志着蚁池正式向Bitcoin Unlimited（BU）开放投票。</p>
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bitfinex演出的第十大悲剧]]></title>
-    <link href="http://btcme.com/blog/2016/08/03/bitfinexyan-chu-de-di-shi-da-bei-ju/"/>
+    <link href="http://btcme.github.io/blog/2016/08/03/bitfinexyan-chu-de-di-shi-da-bei-ju/"/>
     <updated>2016-08-03T07:52:17+08:00</updated>
-    <id>http://btcme.com/blog/2016/08/03/bitfinexyan-chu-de-di-shi-da-bei-ju</id>
+    <id>http://btcme.github.io/blog/2016/08/03/bitfinexyan-chu-de-di-shi-da-bei-ju</id>
     <content type="html"><![CDATA[<p class="info">比特币扩容争论貌似刚刚出现曙光，但Bitfinex不甘寂寞，倾情出演比特币史上的又一出悲剧。</p>
 
 <!-- more -->
@@ -79,9 +79,9 @@
   
   <entry>
     <title type="html"><![CDATA[比特币史上的九大悲剧]]></title>
-    <link href="http://btcme.com/blog/2016/07/12/bi-te-bi-shi-shang-de-jiu-da-bei-ju/"/>
+    <link href="http://btcme.github.io/blog/2016/07/12/bi-te-bi-shi-shang-de-jiu-da-bei-ju/"/>
     <updated>2016-07-12T08:42:59+08:00</updated>
-    <id>http://btcme.com/blog/2016/07/12/bi-te-bi-shi-shang-de-jiu-da-bei-ju</id>
+    <id>http://btcme.github.io/blog/2016/07/12/bi-te-bi-shi-shang-de-jiu-da-bei-ju</id>
     <content type="html"><![CDATA[<p class="info">比特币成功减半，但是扩容争论日益升级。目前正处于一个微妙的时间点。这个时候以史为鉴，让我们回顾一下比特币历史上的一些悲剧故事。</p>
 
 <p>你知道你的比特币现在身处何方么？真心希望它们仍旧在你的钱包里，比特币历史上充斥着各种人为错误，软件的不给力，甚至能够让狂野的西部歹徒都能够脱帽敬礼的盗窃案发生。</p>
