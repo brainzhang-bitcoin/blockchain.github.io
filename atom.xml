@@ -4,7 +4,7 @@
   <title><![CDATA[btcme.com]]></title>
   <link href="http://btcme.com/atom.xml" rel="self"/>
   <link href="http://btcme.com/"/>
-  <updated>2017-08-02T06:55:28+08:00</updated>
+  <updated>2017-12-07T13:15:22+08:00</updated>
   <id>http://btcme.com/</id>
   <author>
     <name><![CDATA[btcme]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NiceHash被盗]]></title>
+    <link href="http://btcme.com/blog/2017/12/07/nicehashbei-dao/"/>
+    <updated>2017-12-07T13:13:52+08:00</updated>
+    <id>http://btcme.com/blog/2017/12/07/nicehashbei-dao</id>
+    <content type="html"><![CDATA[<p class="info">Nicehash 被盗 4700+币</p>
+
+<p>比 bitfinex 要幸运一点，这次发现的比较早，但是按照现在的币价大涨来算，损失也超过了 6000w USD，上次 bitfinex 11w 币不过折合 7000w USD 而已。</p>
+
+<p>https://www.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/</p>
+
+<p>这个是 hacker 的转入地址:</p>
+
+<p>https://btc.com/1EnJHhq8Jq8vDuZA5ahVh6H4t6jh1mB4rq</p>
+
+<p>最早的一笔交易发生在 2017-12-06 13:17:12(UTC+8)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Btc UAHF]]></title>
