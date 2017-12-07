@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://btcme.com
-title: btcme.com
+url: http://btcme.github.io
+title: btcme
 subtitle: 关注BTC，关注Blockchain，新鲜、中立、严肃的业界资讯站。
 author: btcme
 simple_search: https://www.google.com/search
